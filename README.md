@@ -64,14 +64,6 @@ Esse comando instala dependências, compila frontend, prepara backend e gera ima
 
 ---
 
-### 6. **Publicar no npm**
-
-Antes de publicar:
-
-```bash
-npm login
-npm publish --access public
-
 #  🧱 gbit-build: ferramenta de build completa
 O pacote  é responsável por empacotar e preparar seu projeto com comandos simples e poderosos:
 📦 Instalação
