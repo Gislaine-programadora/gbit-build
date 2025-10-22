@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.imgur.com/assets/gbit-build.png" alt="Powered by Gbit" width="300"/>
+  <img src="./assets/gbit-build.png" alt="Powered by Gbit" width="300"/>
 </p>
+
 
 <p align="center">
   <strong>Este projeto foi gerado com o <a href="https://www.npmjs.com/package/create-gbit-app">Gbit Framework</a> e empacotado com <a href="https://www.npmjs.com/package/gbit-build">Gbit Build</a>.</strong>
