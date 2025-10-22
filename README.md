@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/gbit-build.png" alt="Powered by Gbit" width="300"/>
+  <img src="./assets/gbit-build.png" alt="Powered by Gbit" width="200"/>
 </p>
 
 
