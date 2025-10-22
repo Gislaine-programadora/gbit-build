@@ -1,6 +1,6 @@
 {
   "name": "gbit-build",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "CLI para empacotar projetos Gbit Framework",
   "main": "lib/build.js",
   "bin": {
@@ -12,6 +12,25 @@
   "author": "Gislaine",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^5.6.2"
+    "chalk": "^4.1.2"
+  },
+  "keywords": [
+    "cli",
+    "build",
+    "gbit",
+    "framework",
+    "frontend",
+    "backend",
+    "docker",
+    "typescript",
+    "vite"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gislaine-programadora/gbit-build.git"
+  },
+  "homepage": "https://github.com/Gislaine-programadora/gbit-build#readme",
+  "bugs": {
+    "url": "https://github.com/Gislaine-programadora/gbit-build/issues"
   }
 }

@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./assets/powered-by-gbit.png" alt="Powered by Gbit" width="250"/>
-</p>
+<img src="https://github.com/Gislaine-programadora/gbit-build/blob/main/assets/logo.png?raw=true" width="192" />
+
 
 ## Gbit Build
 
