@@ -1,3 +1,46 @@
+<p align="center">
+  <img src="https://i.imgur.com/assets/gbit-build.png" alt="Powered by Gbit" width="300"/>
+</p>
+
+<p align="center">
+  <strong>Este projeto foi gerado com o <a href="https://www.npmjs.com/package/create-gbit-app">Gbit Framework</a> e empacotado com <a href="https://www.npmjs.com/package/gbit-build">Gbit Build</a>.</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/gbit-build">
+    <img src="https://img.shields.io/npm/v/gbit-build" alt="Versão npm">
+  </a>
+  <a href="https://github.com/Gislaine-programadora/gbit-build">
+    <img src="https://img.shields.io/github/stars/Gislaine-programadora/gbit-build?style=social" alt="GitHub stars">
+  </a>
+</p>
+
+---
+
+# 🛠️ Gbit Build
+
+Empacotador oficial para projetos gerados com o Gbit Framework.  
+Instala dependências, compila o frontend, prepara o backend e gera imagem Docker automaticamente.
+
+---
+
+## 🚀 Como usar
+
+Instale como dependência de desenvolvimento:
+
+```bash
+npm install --save-dev gbit-build
+
+
+Ou uso direto com NPX
+
+npx gbit-build
+
+
+##       🧱 O que o Gbit Build faz 
+Esse comando instala dependências, compila o frontend, prepara o backend e gera a imagem Docker automaticamente. Ideal para projetos criados com o create-gbit-app.
+
+
 <img src="https://github.com/Gislaine-programadora/gbit-build/blob/main/assets/logo.png?raw=true" width="192" />
 
 
@@ -10,11 +53,8 @@ Empacotador oficial para projetos gerados com o Gbit Framework.
 ```bash
 npx gbit-build
 
-<p align="center">
-  <img src="https://your-image-host.com/gbit-powered-badge.png" alt="Powered by Gbit" width="300"/>
-</p>
 
-<p align="center">
+
   <strong>Este projeto foi gerado com o <a href="https://www.npmjs.com/package/create-gbit-app">Gbit Framework</a> e empacotado com <a href="https://www.npmjs.com/package/gbit-build">Gbit Build</a>.</strong>
 </p>
 
