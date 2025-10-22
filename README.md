@@ -40,10 +40,6 @@ npx gbit-build
 ##       🧱 O que o Gbit Build faz 
 Esse comando instala dependências, compila o frontend, prepara o backend e gera a imagem Docker automaticamente. Ideal para projetos criados com o create-gbit-app.
 
-
-<img src="https://github.com/Gislaine-programadora/gbit-build/blob/main/assets/logo.png?raw=true" width="192" />
-
-
 ## Gbit Build
 
 Empacotador oficial para projetos gerados com o Gbit Framework.
@@ -54,10 +50,6 @@ Empacotador oficial para projetos gerados com o Gbit Framework.
 npx gbit-build
 
 
-
-  <strong>Este projeto foi gerado com o <a href="https://www.npmjs.com/package/create-gbit-app">Gbit Framework</a> e empacotado com <a href="https://www.npmjs.com/package/gbit-build">Gbit Build</a>.</strong>
-</p>
-
 # Gbit Build
 
 Empacotador oficial para projetos gerados com o Gbit Framework.
@@ -67,15 +59,7 @@ Empacotador oficial para projetos gerados com o Gbit Framework.
 ```bash
 npx gbit-build
 
-
-<p align="center">
-  <img src="./assets/gbit.png" alt="Powered by Gbit" width="300"/>
-</p>
-
-
 Esse comando instala dependências, compila frontend, prepara backend e gera imagem Docker automaticamente.
-
-
 
 ---
 
@@ -104,6 +88,7 @@ npx gbit-build --skip-docker
 npx gbit-build --verbose
 npx gbit-build --dry-run´
 
+
 📄 Licença
 Distribuído sob a licença MIT. Veja o arquivo LICENSE para mais informações.
 
@@ -119,6 +104,3 @@ Feito com ❤️ pela comunidade Gbit Framework
 
 ---
 
-Se quiser, posso te ajudar a gerar esse README automaticamente no projeto com base nas escolhas do usuário (nome, tecnologias, etc.). Quer seguir com isso?
-
-
